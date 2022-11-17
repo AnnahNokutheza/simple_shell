@@ -17,7 +17,7 @@ This simple shell is a Shell interface written in C programming language that gi
 
 <h1>CONTRIBUTORS</h1>
 <strong>
-         [Annah Nokutheza Mwanza Mwanza](https://github.com/AnnahNokutheza)
+- [Annah Nokutheza Mwanza Mwanza](https://github.com/AnnahNokutheza)
 
-         [Oluwafikayomi Bamigbopa](https://github.com/faykey) 
+- [Oluwafikayomi Bamigbopa](https://github.com/faykey) 
 </strong>

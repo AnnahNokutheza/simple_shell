@@ -10,14 +10,12 @@ This simple shell is a Shell interface written in C programming language that gi
 
 - [UNIX SHEll](https://en.m.wikipedia.org/wiki/Unix_shell)
 
-- [THOMPSON SHELL]
-(https://en.m.wikipedia.org/wiki/Thompson_shell)
+- [THOMPSON SHELL](https://en.m.wikipedia.org/wiki/Thompson_shell)
 
-- [KEN THOMPSON]
-(https://en.m.wikipedia.org/wiki/Ken_Thompson)
+- [KEN THOMPSON](https://en.m.wikipedia.org/wiki/Ken_Thompson)
 
 
 <h1>CONTRIBUTORS</h1>
 <strong>
-         Annah Nokutheza Mwanza Mwanza 
-         oluwafikayomi Bamigbopa </strong>
+         [Annah Nokutheza Mwanza Mwanza](AnnahNokutheza)
+         [Oluwafikayomi Bamigbopa](faykey) </strong>

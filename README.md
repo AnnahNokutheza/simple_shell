@@ -18,4 +18,6 @@ This simple shell is a Shell interface written in C programming language that gi
 <h1>CONTRIBUTORS</h1>
 <strong>
          [Annah Nokutheza Mwanza Mwanza](AnnahNokutheza)
-         [Oluwafikayomi Bamigbopa](faykey) </strong>
+
+         [Oluwafikayomi Bamigbopa](faykey) 
+</strong>

@@ -7,8 +7,11 @@
 
 This simple shell is a Shell interface written in C programming language that gives to the user a prompt *tipresh$ *, after it accepts, it executes a user inputted command in a separate process called child process.</strong></p>
 <p><h1>Resources</h1><p>
+https://en.m.wikipedia.org/wiki/Unix_shell
+https://en.m.wikipedia.org/wiki/Thompson_shell
+https://en.m.wikipedia.org/wiki/Ken_Thompson
 
-https://alx-intranet.hbtn.io/rltoken/f0YU9TAhniMXWlSXtb64Yw
+
 <h1>CONTRIBUTORS</h1>
 <strong>
          Annah Nokutheza Mwanza Mwanza 
